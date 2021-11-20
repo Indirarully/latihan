@@ -8,6 +8,7 @@
 
 void main() {
     int a, b;
+
     cout << "Menentukan Nilai terbesar 2 buah input \n";
     cout << "masukkan nilai 1 : "; cin >> a;
     cout << "masukkan nilai 2 : "; cin >> b;
@@ -19,6 +20,14 @@ void main() {
 
     getch();
 }
+
+### Berikut algoritma latihan 1.2 (Perulangan / nested dengan for)
+
+for i in range(3):
+  print('Perulangan luar [i] = ', i)
+
+for j in range(5):
+  print('Perulangan dalam [i, j] = ', str(i) + ', ' + str(j))
 
 ### Berikut algoritma latihan 2.1 (Mengurutkan 3 inputan dari yang terkecil)
 
