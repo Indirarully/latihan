@@ -2,7 +2,7 @@
 # Program perulangan Indira Rully 312110354
 
 ### Berikut algoritma latihan 1.1 (Menentukan nilai terbesar dari 2 input bilangan)
-
+```ruby
 #include<iostream.h>
 #include<conio.h>
 
@@ -20,17 +20,17 @@ void main() {
 
     getch();
 }
-
+```
 ### Berikut algoritma latihan 1.2 (Perulangan / nested dengan for)
-
+```ruby
 for i in range(3):
   print('Perulangan luar [i] = ', i)
 
 for j in range(5):
   print('Perulangan dalam [i, j] = ', str(i) + ', ' + str(j))
-
+```
 ### Berikut algoritma latihan 2.1 (Mengurutkan 3 inputan dari yang terkecil)
-
+```ruby
 #include <iostream>
 using namespace std;
 
@@ -63,3 +63,4 @@ int main(){
 
     return 0;
 }
+```
