@@ -4,8 +4,8 @@ latihan 1.1
 #include<conio.h>
 
 /**
-*bundet.com
-*Menentukan Nilai terbesar dari 2 input bilangan
+* bundet.com
+* Menentukan Nilai terbesar dari 2 input bilangan
 */
 
 void main() {
